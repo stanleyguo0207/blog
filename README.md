@@ -2,7 +2,10 @@
 
 ---
 
-## 2026-04-14
+## golang
 
-- [golang - slice](./golang/slice.md#2026-04-14)
-- [golang - map](./golang/map.md#2026-04-14)
+- [slice](./golang/slice.md)
+- [map](./golang/map.md)
+- [defer](./golang/defer.md)
+- [struct](./golang/struct.md)
+- [interface](./golang/interface.md)
